@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/salesforce_rest_api/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/salesforce_rest_api/httpcomponents-client-4.5.2-bin/httpcomponents-client-4.5.2/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/salesforce_rest_api/json-20160212-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/salesforce_rest_api/json-20141113.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NUITDESK31/Downloads/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NUITDESK31/Downloads/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NUITDESK31/Downloads/commons-httpclient-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NUITDESK31/Downloads/javacsv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NUITDESK31/Downloads/opencsv-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
